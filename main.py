@@ -99,4 +99,3 @@ elif asn1 == "yes":
   print ("Congrats you have completed my Need For Speed heat quiz with the score of")
   print (score)
   print(lives)
-
